@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Elvine Tyoley",
+      "username": "elvine@gmail.com",
+      "phone": "9987705439",
+      "website": "anastasia.net"
+    },
+    {
+      "id": "3",
+      "name": "Clemina Brucholi",
+      "username": "clemina@gmail.com",
+      "phone": "9988905438",
+      "website": "ramiro.info"
+    },
+    {
+      "id": "4",
+      "name": "Pastia Lemboni",
+      "username": "pastia@gmail.com",
+      "phone": "9887603231",
+      "website": "kale.biz"
+    },
+    {
+      "id": "5",
+      "name": "Kiara Kamla",
+      "username": "kiara@gmail.com",
+      "phone": "9887805432",
+      "website": "demarco.info"
+    },
+    {
+      "id": "6",
+      "name": "Subham Dalmia",
+      "username": "subham@gmail.com",
+      "phone": "9995095432",
+      "website": "liabrary.org"
+    },
+    {
+      "id": "7",
+      "name": "Joni Jyorge",
+      "username": "joni@gmail.com",
+      "phone": "9987609832",
+      "website": "kaleri.biz"
+    },
+    {
+      "id": "8",
+      "name": "Simaran Shukla",
+      "username": "simaran@gmail.com",
+      "phone": "9967805432",
+      "website": "flower.brg"
+    },
+    {
+      "id": "9",
+      "name": "Lusifer freha",
+      "username": "lusifer@gmail.com",
+      "phone": "8987605432",
+      "website": "freni.doc"
+    },
+    {
+      "id": "10",
+      "name": "Zoya Akhtar",
+      "username": "zoya@gmail.com",
+      "phone": "9987865432",
+      "website": "aneka.org"
+    },
+    {
+      "id": "",
+      "name": "preet",
+      "username": "chavdapriti2001@gmail.com",
+      "phone": "9980765432"
+    }
+  ]
+}
